@@ -1,13 +1,13 @@
-package br.com.website.projetoweb;
+package com.website.projetowebSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetowebApplication {
+public class ProjetowebSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetowebApplication.class, args);
+		SpringApplication.run(ProjetowebSpringApplication.class, args);
 	}
 
 }
